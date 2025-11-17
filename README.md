@@ -64,22 +64,6 @@ I design and ship end-to-end IoT + backend solutions: from Serial/ADB/SAS device
 
 ---
 
-## 📚 Detailed Project Descriptions
-
-All detailed project descriptions, case studies, and repositories are collected here:
-🔗 [https://github.com/mdedz/Resume](https://github.com/mdedz/Resume)
-
----
-
-## 🚀 How I build things
-
-* **Design for observability:** metrics, structured logs, health checks, and alerting as first-class citizens.  
-* **Small, testable components:** unit-tested critical paths, CI on PRs, canary deployments.  
-* **Secure-by-default:** TLS, auth tokens (JWT/OAuth2), principle of least privilege for infra.  
-* **Edge-first reliability:** resilient agents with retries, transactional persistence, and offline queueing for flaky networks.
-
----
-
 ## 📬 Contact
 
 * **Email:** `ilya.business.contact77@gmail.com`  
