@@ -58,12 +58,6 @@ I design and ship end-to-end IoT + backend solutions: from Serial/ADB/SAS device
 
 ---
 
-## 📈 Top Langs
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdedz&layout=compact&theme=dark)
-
----
-
 ## 📬 Contact
 
 * **Email:** `ilya.business.contact77@gmail.com`  
